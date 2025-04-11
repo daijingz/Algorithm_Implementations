@@ -3,6 +3,8 @@
 [![Lines][lines-shield]][lines-url]
 [![Application Projects][apps-shield]][apps-url]
 [![All Programs Pass Tests][appt-shield]][appt-url]
+[![All Applications Contains Documentations][aacd-shield]][aacd-url]
+[![Actively Updating][au-shield]][au-url]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -11,7 +13,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="left">Algorithm and Applications Project Family (Actively Updating now)</h3>
+  <h3 align="left">Algorithm and Applications Project Family</h3>
 
   <p align="left">
     This project family is about algorithms' designs and implementations. This project includes more than 70 kinds of algorithm introduced by online tutorials, websites, textbooks, documentations and other resources. This page includes a complete description for algorithms and other programs. To find the implementation file, please look at the file name provides on the back side of different modules.
@@ -143,8 +145,10 @@ Use this space to list resources you find helpful and would like to give credit 
 [apps-url]: https://github.com/daijingz/Algorithm_Implementations/tree/main/Applications
 [appt-shield]: https://img.shields.io/badge/All_Programs_Verified_By_Tests-purple
 [appt-url]: https://github.com/daijingz/Algorithm_Implementations/tree/main/Testing
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrewap&logoColor=white
+[aacd-shield]: https://img.shields.io/badge/All_Applications_Contain_Documentations-orange
+[aacd-url]: https://github.com/daijingz/Algorithm_Implementations/tree/main/Documentation
+[au-shield]: https://img.shields.io/badge/Actively_Updating-darkred
+[au-url]: https://www.linkedin.com/in/jingze-dai/
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
