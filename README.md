@@ -26,9 +26,12 @@
 [![Java][java-shield]][java-url]
 [![C++][cpp-shield]][cpp-url]
 [![C][c-shield]][c-url]
-[![All Programs Pass Tests][appt-shield]][appt-url]
-[![All Applications Contains Documentations][aacd-shield]][aacd-url]
-[![Actively Updating][au-shield]][au-url]
+[![C#][csharp-shield]][csharp-url]
+[![JavaScript][js-shield]][js-url]
+[![TypeScript][ts-shield]][ts-url]
+[![Swift][appt-shield]][appt-url]
+[![Go][aacd-shield]][aacd-url]
+[![Scala][au-shield]][au-url]
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -135,3 +138,9 @@ Use this space to list resources you find helpful and would like to give credit 
 [cpp-url]: https://docs.microsoft.com/en-us/cpp/?view=msvc-170
 [c-shield]: https://img.shields.io/badge/C-yellow
 [c-url]: https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170
+[csharp-shield]: https://img.shields.io/badge/CSharp-green
+[csharp-url]: https://learn.microsoft.com/en-us/dotnet/csharp/
+[js-shield]: https://img.shields.io/badge/JavaScript-lightyellow
+[js-url]: https://devdocs.io/javascript/
+[ts-shield]: https://img.shields.io/badge/TypeScript-lightblue
+[ts-url]: https://devdocs.io/typescript/
