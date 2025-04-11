@@ -25,7 +25,7 @@
 [![Python][python-shield]][python-url]
 [![Java][java-shield]][java-url]
 [![C++][cpp-shield]][cpp-url]
-[![C][lines-shield]][lines-url]
+[![C][c-shield]][c-url]
 [![All Programs Pass Tests][appt-shield]][appt-url]
 [![All Applications Contains Documentations][aacd-shield]][aacd-url]
 [![Actively Updating][au-shield]][au-url]
@@ -158,3 +158,5 @@ Use this space to list resources you find helpful and would like to give credit 
 [java-url]: https://www.java.com/en/
 [cpp-shield]: https://img.shields.io/badge/C++-pink
 [cpp-url]: https://docs.microsoft.com/en-us/cpp/?view=msvc-170
+[c-shield]: https://img.shields.io/badge/C-yellow
+[c-url]: https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170
