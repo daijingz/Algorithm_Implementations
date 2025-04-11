@@ -1,9 +1,8 @@
 [![Commits][commits-shield]][commits-url]
-[![Forks][forks-shield]][forks-url]
+[![Programs][programs-shield]][programs-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![Unlicense License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -134,10 +133,10 @@ Use this space to list resources you find helpful and would like to give credit 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-[commits-shield]: https://img.shields.io/badge/Commits-404-blue
+[commits-shield]: https://img.shields.io/badge/Commits->4k-blue
 [commits-url]: https://github.com/daijingz/Algorithm_Implementations/commits/main/
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
+[programs-shield]: https://img.shields.io/badge/Sub-projects->80-green
+[programs-url]: https://github.com/daijingz/Algorithm_Implementations
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
 [stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
