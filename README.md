@@ -8,26 +8,22 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<div align="left">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="icon.jpg" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="left">Algorithm and Applications Project Family</h3>
-
-  <p align="left">
-    This project family is about algorithms' designs and implementations. This project includes more than 70 kinds of algorithm introduced by online tutorials, websites, textbooks, documentations and other resources. This page includes a complete description for algorithms and other programs. To find the implementation file, please look at the file name provides on the back side of different modules.
-    <br />
-    <a href="https://github.com/daijingz/Algorithm-and-Design/tree/main/Documentation"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/daijingz/Algorithm-and-Design/tree/main">View Demo</a>
-    ·
-    <a href="#contact">Report Bug</a>
-    ·
-    <a href="https://github.com/daijingz/Algorithm-and-Design/tree/main">Request Feature</a>
-  </p>
+<div align="left" style="display: flex; align-items: center;">
+  <img src="icon.jpg" alt="Logo" width="80" height="80" style="background-color: white; border-radius: 8px; margin-right: 15px;" />
+  <h3 style="margin: 0;">Algorithm and Applications Project Family</h3>
 </div>
+
+<p align="left">
+  This project family is about algorithms' designs and implementations. This project includes more than 70 kinds of algorithm introduced by online tutorials, websites, textbooks, documentations and other resources. This page includes a complete description for algorithms and other programs. To find the implementation file, please look at the file name provided on the back side of different modules.
+  <br />
+  <a href="https://github.com/daijingz/Algorithm-and-Design/tree/main/Documentation"><strong>Explore the docs »</strong></a>
+  <br /><br />
+  <a href="https://github.com/daijingz/Algorithm-and-Design/tree/main">View Demo</a>
+  ·
+  <a href="#contact">Report Bug</a>
+  ·
+  <a href="https://github.com/daijingz/Algorithm-and-Design/tree/main">Request Feature</a>
+</p>
 
 
 
