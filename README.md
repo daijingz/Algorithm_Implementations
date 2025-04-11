@@ -2,7 +2,7 @@
 [![Programs][programs-shield]][programs-url]
 [![Lines][lines-shield]][lines-url]
 [![Application Projects][apps-shield]][apps-url]
-[![Unlicense License][license-shield]][license-url]
+[![All Programs Pass Tests][appt-shield]][appt-url]
 
 <!-- PROJECT LOGO -->
 <br />
@@ -141,8 +141,8 @@ Use this space to list resources you find helpful and would like to give credit 
 [lines-url]: https://github.com/daijingz/Algorithm_Implementations
 [apps-shield]: https://img.shields.io/badge/Application_Projects-4-yellow
 [apps-url]: https://github.com/daijingz/Algorithm_Implementations/tree/main/Applications
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[appt-shield]: https://img.shields.io/badge/All_Programs_Verified_By_Tests-purple
+[appt-url]: https://github.com/daijingz/Algorithm_Implementations/tree/main/Testing
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrewap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
