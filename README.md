@@ -33,6 +33,8 @@
 [![Go][go-shield]][go-url]
 [![Scala][scala-shield]][scala-url]
 
+[![JSON][json-shield]][json-url]
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -150,3 +152,6 @@ Use this space to list resources you find helpful and would like to give credit 
 [go-url]: https://devdocs.io/go/
 [scala-shield]: https://img.shields.io/badge/Scala-lightgreen
 [scala-url]: https://devdocs.io/scala/
+
+[json-shield]: https://img.shields.io/badge/JSON-grey
+[json-url]: https://www.json.org/json-en.html
