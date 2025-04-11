@@ -29,9 +29,9 @@
 [![C#][csharp-shield]][csharp-url]
 [![JavaScript][js-shield]][js-url]
 [![TypeScript][ts-shield]][ts-url]
-[![Swift][appt-shield]][appt-url]
-[![Go][aacd-shield]][aacd-url]
-[![Scala][au-shield]][au-url]
+[![Swift][swift-shield]][swift-url]
+[![Go][go-shield]][go-url]
+[![Scala][scala-shield]][scala-url]
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -144,3 +144,9 @@ Use this space to list resources you find helpful and would like to give credit 
 [js-url]: https://devdocs.io/javascript/
 [ts-shield]: https://img.shields.io/badge/TypeScript-lightblue
 [ts-url]: https://devdocs.io/typescript/
+[swift-shield]: https://img.shields.io/badge/Swift-purple
+[swift-url]: https://devdocs.io/swift/
+[go-shield]: https://img.shields.io/badge/Go-brown
+[go-url]: https://devdocs.io/go/
+[scala-shield]: https://img.shields.io/badge/Scala-lightgreen
+[scala-url]: https://devdocs.io/scala/
