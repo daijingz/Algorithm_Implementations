@@ -13,14 +13,22 @@
       <img src="icon.jpg" alt="Logo" width="80" height="80" style="background-color: white;" />
     </td>
     <td style="vertical-align: middle; padding-left: 15px;">
-      <h1 style="margin: 0; font-size: 16px; font-weight: bold; font-family: 'Times New Roman', Times, serif;">
-        Algorithm & Applications Project Family
-      </h1>
+      <h3 style="margin: 0;">Algorithm & Applications Project Family</h3>
     </td>
   </tr>
 </table>
 
-
+<p align="left">
+  This project family is about algorithms' designs and implementations. This project includes more than 70 kinds of algorithm introduced by online tutorials, websites, textbooks, documentation, and other resources. This page includes a complete description for algorithms and other programs. To find the implementation file, please look at the file name provided on the back side of different modules.
+  <br />
+  <a href="https://github.com/daijingz/Algorithm-and-Design/tree/main/Documentation"><strong>Explore the docs »</strong></a>
+  <br /><br />
+  <a href="https://github.com/daijingz/Algorithm-and-Design/tree/main">View Demo</a>
+  ·
+  <a href="#contact">Report Bug</a>
+  ·
+  <a href="https://github.com/daijingz/Algorithm-and-Design/tree/main">Request Feature</a>
+</p>
 
 
 <!-- TABLE OF CONTENTS -->
