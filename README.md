@@ -20,16 +20,15 @@
 
 <p align="left">
   This project family includes popular algorithms' multi-language implementations programs and their applications on real-life software artifacts. Each algorithm group has several algorithms solving the same problem, and here, each algorithm has one program executing independently. Those similar algorithms are placed in the same module. Unit testing covers all implementations to ensure their execution reliability, and application projects apply these implementations in their designated places. Documentation aims to indicate main confusion places.
-  <br />
-  <a href="https://github.com/daijingz/Algorithm-and-Design/tree/main/Documentation"><strong>Explore the docs »</strong></a>
-  <br /><br />
-  <a href="https://github.com/daijingz/Algorithm-and-Design/tree/main">View Demo</a>
-  ·
-  <a href="#contact">Report Bug</a>
-  ·
-  <a href="https://github.com/daijingz/Algorithm-and-Design/tree/main">Request Feature</a>
 </p>
 
+[![Python][python-shield]][python-url]
+[![Java][java-shield]][java-url]
+[![C++][cpp-shield]][cpp-url]
+[![C][lines-shield]][lines-url]
+[![All Programs Pass Tests][appt-shield]][appt-url]
+[![All Applications Contains Documentations][aacd-shield]][aacd-url]
+[![Actively Updating][au-shield]][au-url]
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -151,4 +150,11 @@ Use this space to list resources you find helpful and would like to give credit 
 [au-url]: https://www.linkedin.com/in/jingze-dai/
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
+[JQuery-url]: https://jquery.com
+
+[python-shield]: https://img.shields.io/badge/Python-blue
+[python-url]: https://www.python.org/
+[java-shield]: https://img.shields.io/badge/Java-orange
+[java-url]: https://www.java.com/en/
+[cpp-shield]: https://img.shields.io/badge/C++-pink
+[cpp-url]: https://docs.microsoft.com/en-us/cpp/?view=msvc-170
