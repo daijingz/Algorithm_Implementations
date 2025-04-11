@@ -19,7 +19,7 @@
 </table>
 
 <p align="left">
-  This project family is about algorithms' designs and implementations. This project includes more than 70 kinds of algorithm introduced by online tutorials, websites, textbooks, documentation, and other resources. This page includes a complete description for algorithms and other programs. To find the implementation file, please look at the file name provided on the back side of different modules.
+  This project family includes popular algorithms' multi-language implementations programs and their applications on real-life software artifacts. Each algorithm group has several algorithms solving the same problem, and here, each algorithm has one program executing independently. Those similar algorithms are placed in the same module. Unit testing covers all implementations to ensure their execution reliability, and application projects apply these implementations in their designated places. Documentation aims to indicate main confusion places.
   <br />
   <a href="https://github.com/daijingz/Algorithm-and-Design/tree/main/Documentation"><strong>Explore the docs »</strong></a>
   <br /><br />
