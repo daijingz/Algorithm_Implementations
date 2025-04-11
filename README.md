@@ -77,31 +77,6 @@ Every repository has the `README.md` file to briefly explain what does this repo
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
-### Mainly Used Programming Languages
-
-* [Python](https://www.python.org/) (With Pytest, PyGame, Scipy, Numpy, Pandas, matplotlib)
-* [Java](https://www.java.com/en/) (With JUnit, java.sql, GUI)
-* [C++](https://docs.microsoft.com/en-us/cpp/?view=msvc-170) (Application programs and gaming programs)
-* [C](https://docs.microsoft.com/en-us/cpp/?view=msvc-170) (Mainly about operating systems)
-* [Ruby](https://www.ruby-lang.org/en/documentation/) (High-Level programming languages)
-* [Haskell](https://hoogle.haskell.org/) (High-Level programming languages)
-* [Scala](https://docs.scala-lang.org/) (High-Level programming languages)
-* [SQL](https://docs.microsoft.com/en-us/sql/?view=sql-server-ver15) (Azure, mySQL, and Oracle)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-### Statistics
-
-**Total lines** - 9344 lines
-
-**Current Modules** - 10 parts (modules)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-## Repository
-
 <!-- CONTACT -->
 ## Contact the Author
 
