@@ -34,6 +34,8 @@
 [![Scala][scala-shield]][scala-url]
 
 [![JSON][json-shield]][json-url]
+[![MongoDB][mdb-shield]][mdb-url]
+[![pytest][pytest-shield]][pytest-url]
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -155,3 +157,7 @@ Use this space to list resources you find helpful and would like to give credit 
 
 [json-shield]: https://img.shields.io/badge/JSON-grey
 [json-url]: https://www.json.org/json-en.html
+[mdb-shield]: https://img.shields.io/badge/MongoDB-darkgreen
+[mdb-url]: https://www.mongodb.com/
+[pytest-shield]: https://img.shields.io/badge/pytest-skyblue
+[pytest-url]: https://docs.pytest.org/en/stable/
