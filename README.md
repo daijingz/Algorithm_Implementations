@@ -1,6 +1,6 @@
 [![Commits][commits-shield]][commits-url]
 [![Programs][programs-shield]][programs-url]
-[![Stargazers][stars-shield]][stars-url]
+[![Lines][lines-shield]][lines-url]
 [![Issues][issues-shield]][issues-url]
 [![Unlicense License][license-shield]][license-url]
 
@@ -135,10 +135,10 @@ Use this space to list resources you find helpful and would like to give credit 
 
 [commits-shield]: https://img.shields.io/badge/Commits->4k-blue
 [commits-url]: https://github.com/daijingz/Algorithm_Implementations/commits/main/
-[programs-shield]: https://img.shields.io/badge/Sub-projects->80-green
+[programs-shield]: https://img.shields.io/badge/Sub_Projects->80-green
 [programs-url]: https://github.com/daijingz/Algorithm_Implementations
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
+[lines-shield]: https://img.shields.io/badge/Total_Lines-9344-cyan
+[lines-url]: https://github.com/daijingz/Algorithm_Implementations
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
 [issues-url]: https://github.com/othneildrew/Best-README-Template/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
