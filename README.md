@@ -85,6 +85,7 @@ Of course, no one template will serve all projects since your needs may be diffe
 Every repository has the `README.md` file to briefly explain what does this repository do.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right"><a href="#top"><img alt="Back To Top" src="https://img.shields.io/badge/Back_To_Top-black"></a></p>
 
 <!-- CONTACT -->
 ## Contact the Author
