@@ -36,6 +36,8 @@
 [![JSON][json-shield]][json-url]
 [![MongoDB][mdb-shield]][mdb-url]
 [![pytest][pytest-shield]][pytest-url]
+[![junit][junit-shield]][junit-url]
+[![matlab][matlab-shield]][matlab-url]
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -161,3 +163,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [mdb-url]: https://www.mongodb.com/
 [pytest-shield]: https://img.shields.io/badge/pytest-skyblue
 [pytest-url]: https://docs.pytest.org/en/stable/
+[junit-shield]: https://img.shields.io/badge/JUnit-lightorange
+[junit-url]: https://junit.org/junit5/
+[matlab-shield]: https://img.shields.io/badge/MATLAB-darkblue
+[matlab-url]: https://www.mathworks.com/products/matlab.html
