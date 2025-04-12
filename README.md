@@ -99,9 +99,11 @@ Email Address - dai.jingze@icloud.com
 
 Project Link: [https://github.com/daijingz/Algorithm-and-Design](https://github.com/daijingz/Algorithm-and-Design)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
+<p align="right">
+  <a href="#top">
+    <img alt="Back To Top" src="https://img.shields.io/badge/Back_To_Top-black">
+  </a>
+</p>
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
@@ -119,8 +121,11 @@ Use this space to list resources you find helpful and would like to give credit 
 * [Font Awesome](https://fontawesome.com)
 * [React Icons](https://react-icons.github.io/react-icons/search)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
+<p align="right">
+  <a href="#top">
+    <img alt="Back To Top" src="https://img.shields.io/badge/Back_To_Top-black">
+  </a>
+</p>
 
 [commits-shield]: https://img.shields.io/badge/Commits->4k-blue
 [commits-url]: https://github.com/daijingz/Algorithm_Implementations/commits/main/
