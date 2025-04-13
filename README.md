@@ -46,19 +46,8 @@
     <li>
       <a href="#about-the-project">About The Project</a>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#folder-structures-and-file-contents">Folder Structures and File Contents</a></li>
   </ol>
 </details>
 
@@ -91,7 +80,7 @@ Every repository has the `README.md` file to briefly explain what does this repo
 </p>
 
 <!-- CONTACT -->
-## Contact the Author
+## Contact
 
 Email Address - david1147062956@gmail.com
 
@@ -105,8 +94,7 @@ Project Link: [https://github.com/daijingz/Algorithm-and-Design](https://github.
   </a>
 </p>
 
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+## Folder Structures and File Contents
 
 **_This part is from the README file template provider, NOT from the author_**
 
