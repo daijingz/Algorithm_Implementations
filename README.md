@@ -55,7 +55,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-![alt text](images/algorithms_illustration.jpg)
+![alt text](Structure.jpeg)
 
 **This project family includes those parts**
 
