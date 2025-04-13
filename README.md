@@ -65,13 +65,13 @@
 
 :grimacing: **Documentations** (files that explain content, mainly **_.ipynb_** and **_.md_** files)
 
-:blush: **Mathematical proofs** (algortihms' theory proofs, mostly based on selected textbooks)
+:blush: **Mathematical proofs** (algorithms' theory proofs, mostly based on selected textbooks)
 
 :smiley: **Testing** (Testing that checks whether each program has good, expected performance)
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue.
+Of course, no one template will serve all projects since your needs may be different. So, I'll be adding more shortly. You may also suggest changes by forking this repo and creating a pull request or opening an issue.
 
-Every repository has the `README.md` file to briefly explain what does this repository do.
+Every repository has the `README.md` file to explain briefly what this repository does.
 
 <p align="right">
   <a href="#top">
