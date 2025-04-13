@@ -102,8 +102,8 @@ Project Link: [https://github.com/daijingz/Algorithm-and-Design](https://github.
 **Documentation**
   - Documentation showing 
 
-**Module...**
-  - groups of algorithms separated by their solved problems
+**Module X: Y**
+  - groups of algorithms separated by their solved problems Y
 
 **Testing**
   - Unit testing files
