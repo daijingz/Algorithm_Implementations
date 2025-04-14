@@ -57,6 +57,8 @@
 ## About The Project
 ![alt text](Structure.jpeg)
 
+![alt text](Architecture.jpeg)
+
 **This project family includes those parts**
 
 :open_mouth: **Algorithm implementations** (How do algorithm perform in the different programming languages?)
