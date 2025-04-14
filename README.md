@@ -84,11 +84,11 @@ Every repository has the `README.md` file to explain briefly what this repositor
 <!-- CONTACT -->
 ## Contact
 
-Email Address - david1147062956@gmail.com
+Personal Email Address - david1147062956@gmail.com
 
-Email Address - dai.jingze@icloud.com
+Research Email Address - dai.jingze@icloud.com
 
-Project Link: [https://github.com/daijingz/Algorithm-and-Design](https://github.com/daijingz/Algorithm-and-Design)
+Personal Portfolio: [https://sites.google.com/view/jingzedaiinfo/personal-info](https://sites.google.com/view/jingzedaiinfo/personal-info)
 
 <p align="right">
   <a href="#top">
