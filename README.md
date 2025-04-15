@@ -141,9 +141,6 @@ README.md
 [aacd-url]: https://github.com/daijingz/Algorithm_Implementations/tree/main/Documentation
 [au-shield]: https://img.shields.io/badge/Actively_Updating-darkred
 [au-url]: https://www.linkedin.com/in/jingze-dai/
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com
 
 [python-shield]: https://img.shields.io/badge/Python-blue
 [python-url]: https://www.python.org/
