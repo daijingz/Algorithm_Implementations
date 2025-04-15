@@ -112,7 +112,7 @@ Personal Portfolio - [https://sites.google.com/view/jingzedaiinfo/personal-info]
 **Documentation**
   - Documentation showing 
 
-**Module X: Y**
+**Module {X}: {Y}**
   - groups of algorithms separated by their solved problems Y
 
 **Testing**
