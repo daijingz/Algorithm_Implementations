@@ -57,23 +57,31 @@
 ## About The Project
 ![alt text](Structure.jpeg)
 
+Recent software development largely depends on algorithms since outstanding algorithms have such benefits:
+
+- [x] Considerably reduce calculation resource costs (less time and low system utilization).
+- [x] Increase the whole system's reliability and robustness.
+- [x] Improve program compatibility in diverse and distinct environments.
+
+<br>
+
+Here is the structure of this project series:
+
 ![alt text](Architecture.jpeg)
 
 **This project family includes those parts**
 
-:open_mouth: **Algorithm implementations** (How do algorithm perform in the different programming languages?)
+:open_mouth: **Algorithm implementations** (Implementations of algorithms on multiple programming languages)
 
-:smile: **Algorithm-based Application programs** (Apply algorithms to application programs)
+:smile: **Algorithm-based Application programs** (Software artifacts with algorithms' applications)
 
-:grimacing: **Documentations** (files that explain content, mainly **_.ipynb_** and **_.md_** files)
+:grimacing: **Documentations** (Files that explain algorithm designs, mainly **_.ipynb_** and **_.md_** files)
 
-:blush: **Mathematical proofs** (algorithms' theory proofs, mostly based on selected textbooks)
+:blush: **Mathematical proofs** (Less frequently occurring, usually for evaluating algorithms' time complexity)
 
-:smiley: **Testing** (Testing that checks whether each program has good, expected performance)
+:smiley: **Testing** (Ensuring each program has good, expected performance)
 
-Of course, no one template will serve all projects since your needs may be different. So, I'll be adding more shortly. You may also suggest changes by forking this repo and creating a pull request or opening an issue.
-
-Every repository has the `README.md` file to explain briefly what this repository does.
+There are a lot of sub-projects that have not been uploaded, please give the author more time.
 
 <p align="right">
   <a href="#top">
