@@ -96,7 +96,7 @@ There are a lot of sub-projects that have not been uploaded, please give the aut
 
 Research Email Address - dai.jingze@icloud.com
 
-Personal Portfolio - [https://sites.google.com/view/jingzedaiinfo/personal-info](https://sites.google.com/view/jingzedaiinfo/personal-info)
+Personal Portfolio - [https://daijingz.github.io/Jingze_Portfolio/index.html](https://daijingz.github.io/Jingze_Portfolio/index.html)
 
 <p align="right">
   <a href="#top">
