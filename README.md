@@ -19,7 +19,7 @@
 </table>
 
 <p align="left">
-  This project family includes popular algorithms' multi-language implementations programs and their applications on real-life software artifacts. Each algorithm group has several algorithms solving the same problem, and here, each algorithm has one program executing independently. Those similar algorithms are placed in the same module. Unit testing covers all implementations to ensure their execution reliability, and application projects apply these implementations in their designated places. Documentation aims to indicate main confusion places.
+  This project family includes popular algorithms' multi-language implementations programs and their applications on real-life software artifacts. Each algorithm group has several algorithms solving the same problem, and here, each algorithm has one program executing independently. Those similar algorithms are placed in the same module. Unit testing covers all implementations to ensure their execution reliability, and application projects apply these implementations in their designated places. Documentations aim to indicate the main confusion places.
 </p>
 
 [![Python][python-shield]][python-url]
@@ -43,11 +43,9 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-    </li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#folder-structures-and-file-contents">Folder Structures and File Contents</a></li>
+    <li><img src="https://img.icons8.com/ios/50/000000/info--v1.png" width="20" alt="info icon"/><a href="#about-the-project">About The Project</a></li>
+    <li><img src="https://img.icons8.com/ios/50/000000/name.png" width="20" alt="contact icon"/><a href="#contact">Contact</a></li>
+    <li><img src="https://img.icons8.com/ios/50/000000/document--v1.png" width="20" alt="file icon"/><a href="#folder-structures-and-file-contents">Folder Structures and File Contents</a></li>
   </ol>
 </details>
 
