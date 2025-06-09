@@ -52,10 +52,11 @@
 
 
 <!-- ABOUT THE PROJECT -->
-<h2>
+<h2 id="about-the-project">
   <img src="https://img.icons8.com/ios/50/000000/info--v1.png" width="20" alt="info icon" />
   About The Project
 </h2>
+
 ![alt text](Structure.jpeg)
 
 Recent software development largely depends on algorithms since outstanding algorithms have such benefits:
