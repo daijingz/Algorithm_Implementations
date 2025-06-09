@@ -52,7 +52,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## <img src="https://img.icons8.com/ios/50/000000/info--v1.png" width="20" alt="info icon"/> About The Project
 ![alt text](Structure.jpeg)
 
 Recent software development largely depends on algorithms since outstanding algorithms have such benefits:
@@ -88,7 +88,7 @@ There are a lot of sub-projects that have not been uploaded, please give the aut
 </p>
 
 <!-- CONTACT -->
-## Contact
+## <img src="https://img.icons8.com/ios/50/000000/name.png" width="20" alt="contact icon"/><a href="#contact"> Contact
 
 **Personal Email Address** - david1147062956@gmail.com
 
@@ -102,7 +102,7 @@ Personal Portfolio - [https://daijingz.github.io/Jingze_Portfolio/index.html](ht
   </a>
 </p>
 
-## Folder Structures and File Contents
+## <img src="https://img.icons8.com/ios/50/000000/document--v1.png" width="20" alt="file icon"/> Folder Structures and File Contents
 
 **Applications**
   - Application projects applying included algorithms
