@@ -92,7 +92,10 @@ There are a lot of sub-projects that have not been uploaded, please give the aut
 </p>
 
 <!-- CONTACT -->
-## <img src="https://img.icons8.com/ios/50/000000/name.png" width="20" alt="contact icon"/><a href="#contact"> Contact
+<h2 id="contact">
+  <img src="https://img.icons8.com/ios/50/000000/name.png" width="20" alt="contact icon"/>
+  Contact
+</h2>
 
 **Personal Email Address** - david1147062956@gmail.com
 
@@ -106,7 +109,10 @@ Personal Portfolio - [https://daijingz.github.io/Jingze_Portfolio/index.html](ht
   </a>
 </p>
 
-## <img src="https://img.icons8.com/ios/50/000000/document--v1.png" width="20" alt="file icon"/> Folder Structures and File Contents
+<h2 id="folder-structures-and-file-contents">
+  <img src="https://img.icons8.com/ios/50/000000/document--v1.png" width="20" alt="file icon"/> 
+  Folder Structures and File Contents
+</h2>
 
 **Applications**
   - Application projects applying included algorithms
