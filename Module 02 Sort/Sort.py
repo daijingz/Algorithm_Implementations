@@ -208,3 +208,9 @@ def QuickSort(inputList):
         return leftPart + [randomNum] + rightPart
     except:
         raise OtherErrors("Other errors founded.")
+
+arr = [4, 9, 1, 5, 2]
+print(InsertionSort(arr))
+print(MergeSort(arr))
+print(ShellSort(arr))
+print(QuickSort(arr))
