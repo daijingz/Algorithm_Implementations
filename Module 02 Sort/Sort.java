@@ -1,4 +1,4 @@
-// Array Numbers must be unrepeated
+import java.util.*;
 
 public class Sort{
     int[] Selection_Sort(int[] arr) {
@@ -138,5 +138,67 @@ public class Sort{
             }
         }
         return output;
+    }
+
+    // QuickSort wrapper
+    public int[] QuickSort(int[] input) throws Exception {
+        if (!checkAvailable(input)) {
+            throw new Exception("InappropriateInput");
+        }
+
+        List<Integer> inputList = new ArrayList<>();
+        for (int value : input) {
+            inputList.add(value);
+        }
+
+        int pivot = selectPivot(inputList);
+
+        List<Integer> leftPart = new ArrayList<>();
+        List<Integer> rightPart = new ArrayList<>();
+
+        for (int val : inputList) {
+            if (val < pivot) {
+                leftPart.add(val);
+            } else if (val > pivot) {
+                rightPart.add(val);
+            }
+        }
+
+        Collections.sort(leftPart);
+        Collections.sort(rightPart);
+
+        List<Integer> result = new ArrayList<>();
+        result.addAll(leftPart);
+        result.add(pivot);
+        result.addAll(rightPart);
+
+        // Convert List<Integer> back to int[]
+        int[] sorted = new int[result.size()];
+        for (int i = 0; i < result.size(); i++) {
+            sorted[i] = result.get(i);
+        }
+        return sorted;
+    }
+
+    // Validation logic
+    private boolean checkAvailable(int[] input) {
+        Set<Integer> seen = new HashSet<>();
+        for (int val : input) {
+            if (val == 0) return false;
+            if (!seen.add(val)) return false;
+        }
+        return true;
+    }
+
+    // Pivot selection excluding min and max
+    private int selectPivot(List<Integer> list) {
+        Random rand = new Random();
+        int pivot;
+        int min = Collections.min(list);
+        int max = Collections.max(list);
+        do {
+            pivot = list.get(rand.nextInt(list.size()));
+        } while (pivot == min || pivot == max);
+        return pivot;
     }
 }
